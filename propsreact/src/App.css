@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(0, 0, 0);
+
+}
+.App{
+  text-align: center;
+  margin-left:15%;
+  margin-right: 2%;
+  background-image: url(https://images.unsplash.com/photo-1557800634-95f2a96fbd64?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  height: 500px;
+  margin-top: 2%;
+  margin-bottom: 10%;
+  border-radius: 40%;
+  width: 900px;
+}
+.mText{
+margin-top: 7%;
+
+
+}
+img{
+  height: 350px;
+  width:300px; 
+  border-radius: 50%; 
+  position: absolute;
+  left: 5%;
+  top: 5%;
+  box-shadow:  20px 20px 60px #1a1201,
+            -20px -20px 60px rgb(19, 17, 1);
+
+}
+
+button{
+  margin-top:5%;
+  background-color: rgb(85, 6, 61);
+  border-radius: 40%;
+  color:white;
+  width:100px;
+  height: 40px;
+}
